@@ -44,9 +44,9 @@ A JavaFX program for inputting and exporting lost and found items.
 - Exporting Tabel Contents: Click the'Export' button. This will be exported to a CSV file called 'Table.csv'.
 
 ## Credits
-American University of Bahrain
-CMPE361 - Windows Programming
-Dr. Fatema Akbar
+- American University of Bahrain
+- CMPE361 - Windows Programming
+- Dr. Fatema Akbar
 
 Coders:
 - Ali Abdulla, A00786
