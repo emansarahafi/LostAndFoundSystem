@@ -2,7 +2,7 @@
 
 This project was done by three students for a Windows Programming course in the American University of Bahrain using JavaFX utilities.
 
-This project started in December, 2021 and ended on the 8th of January, 2022.
+This project started in December 2021 and ended on the 8th of January, 2022.
 
 Contents of this file
 ---------------------
@@ -46,7 +46,7 @@ American University of Bahrain
 CMPE361 - Windows Programming
 Dr. Fatema Akbar
 
-Coders:
+## Coders:
 - Ali Abdulla, A00786
 - Eman Sarah Afi, A00051
 - Sara Abdelhakeem, A00035
